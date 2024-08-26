@@ -249,10 +249,6 @@ header{
 .address span{
     margin-left: 1rem;
 }
-.copyright{
-    padding: 20px;
-    text-align: center;
-}
 @media (max-width:921px){
     header{
         padding: 14px 41px;
